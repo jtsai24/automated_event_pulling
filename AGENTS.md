@@ -22,11 +22,10 @@ Discover relevant career, AI, software, and technical networking events and publ
 5. Deduplicate by event title, date, and organizer.
 6. Add clear new events and conferences, and update existing records only when material details changed.
 7. Preserve missing information as `TBD`; never guess.
-8. Generate a four-week event report in Seattle time.
-9. Write the event report using: `reports/YYYY-MM-DD - Career AI Events for [date range].md`.
-10. Generate a separate conference report covering verified conferences in the next 6–12 months.
-11. Write it using: `reports/YYYY-MM-DD - Conference Watch.md`.
-12. Update `README.md` so the newest event report and Conference Watch links appear at the top.
+8. Generate one combined report containing all events and conferences occurring during the next four complete Monday–Sunday weeks, in Seattle time.
+9. Write the report using: `reports/YYYY-MM-DD - Career AI Events for [date range].md`.
+10. Include verified conferences in the same chronological weekly tables as other events. Do not generate a separate conference report.
+11. Update `README.md` so the newest combined report link appears at the top.
 
 Seattle AI Week is a required conference check. Verify the umbrella program and its individual events through WTIA and official host pages. Add verified individual events to the database without duplicating listings found through normal event sources.
 
@@ -54,4 +53,4 @@ Use one section per week and one Markdown table per section:
 
 End every report with its generation date and a reminder that event details can change. Do not include personal attendance decisions in the public report.
 
-The Conference Watch should include conference name, dates, location, focus, registration status or deadline, price when published, and official URL. Preserve unpublished details as `TBD`.
+For conferences within the four-week report window, include the conference name, dates, location, focus, registration status or deadline, price when published, and official URL. Preserve unpublished details as `TBD`.
