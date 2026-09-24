@@ -1,5 +1,5 @@
 # Event Reports
 
-Dated event reports will be stored in this folder. The repository README links directly to the newest report.
+Dated event reports and longer-horizon Conference Watch reports are stored in this folder. The repository README links directly to the newest reports.
 
 - [September 21–October 18, 2026](2026-09-24%20-%20Career%20AI%20Events%20for%20September%2021%E2%80%93October%2018.md)
