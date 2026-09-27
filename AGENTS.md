@@ -15,7 +15,7 @@ Discover relevant career, AI, software, and technical networking events and publ
 
 ## Weekly workflow
 
-1. Read `SOURCES.md` and check sources from highest to lowest priority.
+1. Read `SOURCES.md` and check every active event source with priority 80 or higher, from highest to lowest priority. Sources below 80 are documented for reference but are not part of the routine weekly pull.
 2. Read `CONFERENCE_SOURCES.md` and check conference sources using a 6–12 month horizon.
 3. Verify event and conference details using official organizer or registration pages when possible.
 4. Compare discoveries with the event database.

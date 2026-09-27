@@ -10,4 +10,6 @@ This project publishes a regularly updated report of career, AI, software, and t
 
 The current event database is maintained in Notion. Public reports are generated from that database and committed here.
 
+The weekly event pull scans active sources with a priority of **80 or higher**. See [AGENTS.md](AGENTS.md) for the complete workflow and reporting instructions.
+
 The latest dated report is linked above; older reports remain in `reports/`.
