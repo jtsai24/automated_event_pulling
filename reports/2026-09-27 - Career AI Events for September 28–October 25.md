@@ -8,14 +8,18 @@ Times are in Seattle time. Registration status and schedules can change; follow 
 
 | Date | Time | Event | Organizer | Location |
 |---|---|---|---|---|
+| Mon, Sep 28 | 8:00–9:00 PM | [AAIF APAC Lunch & Learn: MCP in Practice](https://home.mlops.community/public/events/aaif-apac-lunch-and-learn-mcp-in-practice-u9ajlahwea) | Agentic AI Foundation | Online |
 | Tue, Sep 29 | 10:00 AM–6:00 PM | [Startup World Cup — Seattle Regional Expo](https://luma.com/startup-world-cup-seattle-expo-2026) | Venture Mechanics / Startup World Cup | Bellevue College |
 | Tue, Sep 29 | 5:00–8:00 PM | [Agentic + AI Observability Meetup](https://luma.com/Agentic_AI_9-29) | Agentic + AI Observability | Databricks Bellevue; waitlist |
 | Wed, Sep 30 | 8:00 AM–5:00 PM | [IA40 Summit 2026](https://www.ia40.com/summit) | Madrona / IA40 | Four Seasons Seattle; invitation required |
+| Wed, Sep 30 | 8:00–11:00 AM | [AAIF Community Showcase: What’s Being Built in Agentic AI](https://home.mlops.community/public/events/aaif-community-showcase-whats-being-built-in-agentic-ai-rqxg6cupet) | Agentic AI Foundation | Online livestream |
 | Wed, Sep 30 | 11:30 AM–5:30 PM | [Build with Gemini: Seattle](https://cloud.google.com/events/build-with-gemini-seattle-3) | Google Cloud | Block 41, Seattle |
 | Wed, Sep 30 | 5:00–7:00 PM | [PyData Seattle: AI for Climate and Earth](https://www.meetup.com/pydata_seattle/events/315789388/) | PyData Seattle | PLUS84, Seattle; hybrid |
+| Wed, Sep 30 | 5:30–7:30 PM | [Agentic AI Night: A2A and the Agentic Stack](https://luma.com/aaif-sea-02) | Agentic AI Foundation (AAIF) Seattle | F5 Tower, Seattle; waitlist |
 | Wed, Sep 30 | 5:30–8:30 PM | [Beyond the Model: Agents, Verification & Control Planes](https://luma.com/dbdxzfgb) | Seattle Systems | SURF Incubator, Seattle |
-| Thu, Oct 1 | 4:00–6:00 PM | [Industry Networking with Qualcomm AI Hub](https://luma.com/htp473qy) | Northeastern Seattle / Qualcomm | Northeastern Seattle |
+| Thu, Oct 1 | 9:00–10:00 AM | [AAIF Reading Group: Measuring Agent Policy Compliance](https://home.mlops.community/public/events/aaif-reading-group-measuring-agent-policy-compliance-d6gfpflagm) | Agentic AI Foundation | Online |
 | Thu, Oct 1 | 6:00–9:00 PM | [AI Dev Tools Track — Seattle](https://seattle.aitinkerers.org/p/ai-dev-tools-track-seattle-october-1) | AI Tinkerers Seattle | Seattle; application required |
+| Fri, Oct 2 | 9:00–10:00 AM | [Coding Agents Lunch & Learn: Making Agents.md More Effective](https://home.mlops.community/public/events/coding-agents-lunch-and-learn-session-26-making-agents-md-more-effective-5xvpz48jxn) | Agentic AI Foundation | Online |
 | Sat, Oct 3 | 1:30–3:30 PM | [SDE Skills — In-Person Coding Interview Practice](https://www.meetup.com/skillets/events/vgbwztyjcnbfb/) | SDE Skills Coding Interviews Practice | Redmond; exact venue TBD |
 
 ### Week of October 5–11
@@ -39,7 +43,6 @@ Times are in Seattle time. Registration status and schedules can change; follow 
 | Fri, Oct 16 | 2:00–4:00 PM | [AI/ML Code and Learn #26](https://www.meetup.com/seattle-ai-ml-skills/events/315461304/) | Seattle AI/ML Skills | Victrola Coffee, Seattle |
 | Fri, Oct 16–Sat, Oct 17 | 5:00 PM Fri–7:00 PM Sat | [Agentic Enterprise AI Hackathon with Box + AWS](https://ushackathons.com/events/agentic-enterprise-ai-hackathon-with-box-aws) | Box Devs / AWS | Downtown Seattle; application required |
 | Sat, Oct 17 | 1:30–3:30 PM | [SDE Skills — In-Person Coding Interview Practice](https://www.meetup.com/skillets/events/vgbwztyjcnbfb/) | SDE Skills Coding Interviews Practice | Redmond; exact venue TBD |
-| Sat, Oct 17–Sun, Oct 18 | 9:00 AM Sat–9:00 PM Sun | [DubHacks 2026](https://dh26.dubhacks.co/) | DubHacks / University of Washington | UW Seattle |
 
 ### Week of October 19–25
 
