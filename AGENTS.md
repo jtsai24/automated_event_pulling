@@ -22,10 +22,11 @@ Discover relevant career, AI, software, and technical networking events and publ
 5. Deduplicate by event title, date, and organizer.
 6. Add clear new events and conferences, and update existing records only when material details changed.
 7. Preserve missing information as `TBD`; never guess.
-8. Generate one combined report containing events from the next four complete Monday–Sunday weeks and conferences from the next two months, in Seattle time.
-9. Write the report using: `reports/YYYY-MM-DD - Career AI Events for [date range].md`.
-10. Divide the report into two top-level sections: `Events` first and `Conferences` second. Do not generate a separate conference report.
-11. Update `README.md` so the newest combined report link appears at the top.
+8. Exclude events whose eligibility is limited to current students or another group the intended audience cannot join. If an ineligible event already exists in the database, preserve the record for audit history, begin its notes with `Excluded from reports`, and remove it from current and future public reports.
+9. Generate one combined report containing events from the next four complete Monday–Sunday weeks and conferences from the next two months, in Seattle time.
+10. Write the report using: `reports/YYYY-MM-DD - Career AI Events for [date range].md`.
+11. Divide the report into two top-level sections: `Events` first and `Conferences` second. Do not generate a separate conference report.
+12. Update `README.md` so the newest combined report link appears at the top.
 
 Seattle AI Week is a required conference check. Verify the umbrella program and its individual events through WTIA and official host pages. Add verified individual events to the database without duplicating listings found through normal event sources.
 

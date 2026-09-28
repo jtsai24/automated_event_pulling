@@ -32,7 +32,6 @@ Times are in Seattle time. Registration status and schedules can change; follow 
 | Wed, Sep 30 | 11:30 AM–5:30 PM | [Build with Gemini: Seattle](https://cloud.google.com/events/build-with-gemini-seattle-3) | Google Cloud | Block 41, Seattle |
 | Wed, Sep 30 | 5:00–7:00 PM | [PyData Seattle: AI for Climate and Earth](https://www.meetup.com/pydata_seattle/events/315789388/) | PyData Seattle | PLUS84, Seattle; hybrid |
 | Wed, Sep 30 | 5:30–8:30 PM | [Beyond the Model: Agents, Verification & Control Planes](https://luma.com/dbdxzfgb) | Seattle Systems | SURF Incubator, Seattle |
-| Thu, Oct 1 | 4:00–6:00 PM | [Industry Networking with Qualcomm AI Hub](https://luma.com/htp473qy) | Northeastern Seattle / Qualcomm | Northeastern Seattle |
 | Sun, Oct 4–Wed, Oct 7 | Daily schedule TBD | [IEEE SMC 2026 — Human-Centric Intelligence](https://www.ieeesmc2026.org/) | IEEE SMC Society | Hyatt Regency Bellevue |
 
 ## Week of October 5–11
