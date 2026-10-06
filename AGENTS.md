@@ -30,6 +30,33 @@ Discover relevant career, AI, software, and technical networking events and publ
 
 Seattle AI Week is a required conference check. Verify the umbrella program and its individual events through WTIA and official host pages. Add verified individual events to the database without duplicating listings found through normal event sources.
 
+## Source-completeness requirements
+
+A calendar landing page is a discovery index, not sufficient evidence that all of its events were checked.
+
+For every active source with priority 80 or higher:
+
+1. Enumerate every visible upcoming event card whose date could fall within the report window. Open each individual event page; do not rely only on the calendar landing page.
+2. If a landing page omits dates, shows `TBA`, fails to render, uses an embedded calendar, or cannot be fully enumerated, use alternate public discovery routes before marking the source incomplete:
+   - Search the organizer name plus the report date range.
+   - Search exact visible event titles.
+   - Search the organizer's Meetup group, Luma calendar, official website, and public event indexes.
+   - Use targeted `site:` searches for the organizer's known domains.
+3. Treat a date found on a public alternate listing as verified only after opening the individual event or registration page when possible. Preserve unresolved fields as `TBD`.
+4. A source access problem does not permit silently omitting its visible event titles. Record each unresolved title as a review item.
+5. For sources marked incomplete, report:
+   - which discovery routes were attempted;
+   - visible titles that remain unresolved;
+   - how many dated events were successfully verified.
+6. Before publishing, run a coverage audit for every priority-90-or-higher source and every source marked incomplete. Search again by organizer name and by each unresolved title. Compare the results with the Notion database and the draft report.
+7. Do not label a run fully successful when any priority source remains incompletely checked. Label it **completed with source gaps** and list the affected sources and unresolved titles in the run summary.
+
+### Required cross-checks for known multi-platform sources
+
+- **AI Builders and Learners:** Check both the Luma calendar and its Meetup listings. Luma may display dates as `To Be Announced` even when Meetup publishes the actual schedule. Resolve every visible Luma event title through Meetup or an exact-title search.
+- **Union.ai / Building AI Together:** Check the official Union event page, the Building AI Together Meetup groups, and exact-title web searches. Embedded or partially rendered Union calendars are not sufficient.
+- **Seattle AI Week:** Check the WTIA page, the official Luma calendar, and individual host pages.
+
 ## Required public event fields
 
 - Date
