@@ -53,7 +53,7 @@ For every active source with priority 80 or higher:
 
 ### Required cross-checks for known multi-platform sources
 
-- **AI Builders and Learners:** Check both the Luma calendar and its Meetup listings. Luma may display dates as `To Be Announced` even when Meetup publishes the actual schedule. Resolve every visible Luma event title through Meetup or an exact-title search.
+- **AI Builders and Learners:** Check the Luma calendar first and open every event card. On Luma calendar timelines, the date and time may appear in a separate heading above the card while `To Be Announced` inside the card refers to the venue, streaming link, or location—not the event date. Never interpret that label as an unknown date when a timeline date/time is visible. If text extraction omits or detaches the timeline heading, inspect the rendered calendar visually or open the individual event page. Use Meetup or an exact-title search only when the rendered Luma event still lacks required details.
 - **Union.ai / Building AI Together:** Check the official Union event page, the Building AI Together Meetup groups, and exact-title web searches. Embedded or partially rendered Union calendars are not sufficient.
 - **Seattle AI Week:** Check the WTIA page, the official Luma calendar, and individual host pages.
 
