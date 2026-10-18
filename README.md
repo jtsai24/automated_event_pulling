@@ -2,7 +2,9 @@
 
 This project publishes a regularly updated report of career, AI, software, and technical networking events relevant to the Seattle area.
 
-- [Latest report: October 12–November 8, 2026 (generated October 11)](reports/2026-10-11%20-%20Career%20AI%20Events%20for%20October%2012%E2%80%93November%208.md)
+- [Latest report: October 19–November 15, 2026 (generated October 18)](reports/2026-10-18%20-%20Career%20AI%20Events%20for%20October%2019%E2%80%93November%2015.md)
+- [October 18 source audit and run summary — completed with source gaps](reports/2026-10-18%20-%20Run%20Summary.md)
+- [Previous report: October 12–November 8, 2026 (generated October 11)](reports/2026-10-11%20-%20Career%20AI%20Events%20for%20October%2012%E2%80%93November%208.md)
 - [Previous corrected report: October 5–November 1, 2026 (generated October 6)](reports/2026-10-06%20-%20Career%20AI%20Events%20for%20October%205%E2%80%93November%201.md)
 - [Previous report: October 5–November 1, 2026 (generated October 4)](reports/2026-10-04%20-%20Career%20AI%20Events%20for%20October%205%E2%80%93November%201.md)
 - [Previous report: September 28–October 25, 2026 (generated September 27)](reports/2026-09-27%20-%20Career%20AI%20Events%20for%20September%2028%E2%80%93October%2025.md)
