@@ -10,6 +10,8 @@ Times are in Seattle time.
 
 #### Monday, October 26
 
+##### Morning — starts before noon
+
 | Date | Time | Event | Organizer | Location |
 |---|---|---|---|---|
 | Mon, Oct 26 | 9:30 AM–11:00 AM | [WTIA \| AI 101: What It Is, What It Isn't, and Why It Matters Here](https://luma.com/seattle-ly3y) — Full / closed — waitlist | WTIA | Labour Temple, 2800 1st Ave, Seattle |
@@ -17,6 +19,11 @@ Times are in Seattle time.
 | Mon, Oct 26 | 10:00 AM–1:00 PM | [Founder Showcase: Seattle AI Week Kickoff](https://luma.com/i2e17fmv) — Waitlist | SURF Incubator / The SWELL | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
 | Mon, Oct 26 | 11:00 AM–12:00 PM | [Seattle AI Week Fireside: The Frontier of AI](https://luma.com/seaaiweek-mon-keynote) | Skillsheet events | thinkspace SEATTLE, 1700 Westlake Ave N, Seattle |
 | Mon, Oct 26 | 11:30 AM–12:30 PM | [Bob's on the Job! Your AI-Powered Development Partner — online](https://luma.com/4mqmp9gs) | Sarina Ghaderi / Nikita Thomas | Online |
+
+##### Afternoon — starts noon–4:59 PM
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Mon, Oct 26 | 12:30 PM–1:30 PM | [Is Our AI Paying Off? An Executive Roundtable on Proving AI ROI](https://luma.com/v03op9ct) — Waitlist | Michelle Korshaven / Bing Blalock | citizenM Seattle South Lake |
 | Mon, Oct 26 | 1:00 PM–2:00 PM | [[SEA AI WEEK] AI Frontier Day VC Panel: What VCs are seeing with startups at the AI frontier](https://luma.com/seaaiweek-mon-panel) | Skillsheet events | thinkspace SEATTLE, 1700 Westlake Ave N #200, Seattle, WA 98109 |
 | Mon, Oct 26 | 1:00 PM–3:00 PM | [Building with AI: Founder Talks @ Seattle AI Week](https://luma.com/2fy747m5) | SURF Incubator / The SWELL | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
@@ -25,11 +32,18 @@ Times are in Seattle time.
 | Mon, Oct 26 | 3:00 PM–7:00 PM | [#SeattleAIWeek 2026 Opening Reception](https://luma.com/9hfhvzkt) — Full / closed | Washington Technology Industry Association (WTIA) | AI House, 2801 Alaskan Way, Seattle |
 | Mon, Oct 26 | 3:00 PM–5:00 PM | [AI Frontier Day Founder Showcase & Happy Hour](https://luma.com/seaaiweek-mon-hh) | Skillsheet events / thinkspace | thinkspace SEATTLE |
 | Mon, Oct 26 | 4:00 PM–6:00 PM | [Startup Panel & Founder + Mentor Happy Hour @Seattle AI Week](https://luma.com/kns4dry3) — Waitlist | SURF Incubator / Sally Revell / Aspen White | SURF Incubator, Seattle |
+
+##### Evening — starts at 5 PM or later
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Mon, Oct 26 | 5:00 PM–7:30 PM | [WAAI × Wajo AI: Agents That Actually Do Daily Tasks](https://luma.com/b0tduqc5) | Women Applying AI Seattle / Wajo AI | Seattle; address after registration |
 | Mon, Oct 26 | 5:30 PM–6:30 PM | [Agentic AI Workshop](https://luma.com/h9f9t4bv) | NetworkAI / Sarah Greenberg | PACCAR Hall PCAR295, 4277 E Stevens Way NE, Seattle |
 | Mon, Oct 26 | 6:00 PM–9:00 PM | [AI Week Seattle: A Luāu for Startups](https://luma.com/y24x8ouw) — Approval required | SURF / SWELL / Sound Startups | SURF Incubator, Seattle |
 
 #### Tuesday, October 27
+
+##### Morning — starts before noon
 
 | Date | Time | Event | Organizer | Location |
 |---|---|---|---|---|
@@ -40,6 +54,11 @@ Times are in Seattle time.
 | Tue, Oct 27 | 11:00 AM–12:00 PM | [AI GTM Day Panel](https://luma.com/seaaiweek-tue-panel) | Skillsheet events | thinkspace SEATTLE, 1700 Westlake Ave N #200, Seattle |
 | Tue, Oct 27 | 11:00 AM–1:00 PM | [Economic Outlook with Chief Economist, Phil Neuhart of First Citizens Innovation Bank](https://luma.com/oo0g8ge4) | Joaquín I. Gallardo / First Citizens Innovation Bank | Madison Centre, 920 5th Ave, Seattle |
 | Tue, Oct 27 | 11:00 AM–1:30 PM | [Smart Growth: AI + Founder Roundtable](https://www.eventbrite.com/o/9779322401?contact_organizer=true&event_id=2002175865912) — Registration status TBD | WBEC-Pacific | Skanska,400FairviewAveN1000,Seattle |
+
+##### Afternoon — starts noon–4:59 PM
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Tue, Oct 27 | 12:00 PM–1:30 PM | [LevelUp with AI: From Curiosity to Capability — online](https://luma.com/wcf01ek7) — Full / closed — waitlist | Mitchell Robertson / Lana Zumbrunn | Online |
 | Tue, Oct 27 | 1:00 PM–2:00 PM | [AI Book Club: Grokking Deep Reinforcement Learning — online](https://luma.com/khawhy87) | Sage Elliott / AI Builders and Learners | Online |
 | Tue, Oct 27 | 1:00 PM–2:00 PM | [AI GTM Day VC Panel: What VCs Look for in Founders Who Can Sell](https://luma.com/skills-m8ec) | Skillsheet events | thinkspace SEATTLE |
@@ -49,6 +68,11 @@ Times are in Seattle time.
 | Tue, Oct 27 | 4:00 PM–6:00 PM | [AI in Government Panel — AI Week](https://luma.com/mydp0sfj) — Full / closed — waitlist | Ascend / AI House | AI House, 2801 Alaskan Way, Seattle |
 | Tue, Oct 27 | 4:00 PM–7:00 PM | [Total Cost of Ownership: Living with AI](https://luma.com/my58xg5k) — Approval required | Seattle Tech Forum | Issaquah, WA; address after approval |
 | Tue, Oct 27 | 4:00 PM–6:00 PM | [Seattle \| AI Week: A Vibe Coded App Is NOT A Business…](https://luma.com/k6w9cpyt) — Approval required | Arif Gursel / Reza Firouzbakht / Craig Nakagawa / TJ Kneale | Seattle; address after approval |
+
+##### Evening — starts at 5 PM or later
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Tue, Oct 27 | 5:00 PM–7:00 PM | [The Enterprise Edge — Seattle \| Virtual Masterclass — online](https://luma.com/gz2zl5ek) — Approval required | Bruce Scheer / Dean Edwards / Sandy Yu | Online |
 | Tue, Oct 27 | 5:00 PM–7:00 PM | [Founders in the Arts](https://luma.com/jclx4wmc) — Approval required | Seth Paul / Alexa | Location after registration |
 | Tue, Oct 27 | 5:30 PM–8:00 PM | [Seattle AI Week: North Sound AI Happy Hour](https://luma.com/3s3il2ha) | North Sound Innovators / Ryan Lund / Adam Peddicord | Edway Taphouse, Edmonds |
@@ -57,6 +81,8 @@ Times are in Seattle time.
 | Tue, Oct 27 | 6:30 PM–8:30 PM | [AI 2030 Community Mixer: Seattle AI Week](https://luma.com/b7aycrvg) — Approval required | Xiaochen Zhang / AI 2030 | Seattle; address after registration |
 
 #### Wednesday, October 28
+
+##### Morning — starts before noon
 
 | Date | Time | Event | Organizer | Location |
 |---|---|---|---|---|
@@ -69,6 +95,11 @@ Times are in Seattle time.
 | Wed, Oct 28 | 11:00 AM–12:00 PM | [Agentic AI + Infrastructure Day Panel: Agentic Commerce](https://luma.com/skills-tfr1) | Skillsheet events | thinkspace SEATTLE, Seattle |
 | Wed, Oct 28 | 11:00 AM–2:00 PM | [H2 Presents #SeattleAIWeek Salon: In Good Company](https://luma.com/xqls2dhn) — Approval required | Olivia Neal Howell / christina holding / Nick Ellingson / Todd Conley | Hotel Theodore, 1531 7th Ave, Seattle |
 | Wed, Oct 28 | 11:00 AM–12:00 PM | [Real Problems, Real Solutions: AI That Keeps Humans in the Loop — online](https://luma.com/rzpk3vdn) | Waymakers Collective / Brynn Algstam / Lakshmi Nidamarthi | Online |
+
+##### Afternoon — starts noon–4:59 PM
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Wed, Oct 28 | 12:00 PM–1:00 PM | [It's 10pm. Do You Know What Your Kid Is Prompting?](https://luma.com/5zhd9kxd) | Lauren Townsend / SURF Incubator | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
 | Wed, Oct 28 | 12:00 PM–1:00 PM | [Flyte 2 + Apple Silicon for durable local AI workflows — online](https://luma.com/trjsr6im) | Sage Elliott / Union.ai | Online |
 | Wed, Oct 28 | 1:00 PM–2:00 PM | [Agentic AI + Infrastructure Day VC Panel: What's Actually Investable in Agentic AI](https://luma.com/seaaiweek-wed-panel) | Skillsheet events | thinkspace SEATTLE, 1700 Westlake Ave N #200, Seattle |
@@ -84,6 +115,11 @@ Times are in Seattle time.
 | Wed, Oct 28 | 3:45 PM–4:45 PM | [I'm Not a Salesperson: Sell Your Work with Confidence](https://luma.com/50xw46ur) | Chericka Johnson / SURF | SURF Incubator,Seattle |
 | Wed, Oct 28 | 4:00 PM–6:00 PM | [Building Your Founder Brand and Your Startup's at the Same Time](https://luma.com/8t7pxw4k) — Approval required | 9Zero / Venture Mechanics | 9Zero,1215 4th Ave15th Floor,Seattle |
 | Wed, Oct 28 | 4:30 PM–6:30 PM | [Everyone's Selling AEO/GEO. Nobody Can Prove It Worked.](https://luma.com/jy3uu71j) — Approval required | Beck Nadir / Shamila Nadir | Seattle; address after approval |
+
+##### Evening — starts at 5 PM or later
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Wed, Oct 28 | 5:00 PM–9:00 PM | [Supply Chain 2031: What's Next for Logistics, Inventory, and Procurement](https://luma.com/zvsmcydh) — Approval required | Representative of German Business | SAP Concur, 601 108th Ave NE Unit 1000, Bellevue |
 | Wed, Oct 28 | 5:30 PM–7:30 PM | [The 19th Hole: Seattle AI Week Founder Social](https://luma.com/f52xszi4) — Approval required | MeeBoss | Bellevue; address after approval |
 | Wed, Oct 28 | 5:30 PM–8:00 PM | [Seattle Designers \| Claude Community x PSL: Creative problem solving with AI](https://luma.com/claude-448g) — Full / closed — waitlist | Lucas Dickey / Claude Community / PSL | RailSpur, Seattle |
@@ -92,6 +128,8 @@ Times are in Seattle time.
 | Wed, Oct 28 | 7:00 PM–9:00 PM | [Seattle AI Week Executive Dinner: Evolving the Enterprise Data Stack for AI Agents](https://luma.com/31tffc5j) — Approval required | Spice AI / Wyatt Wenzel / Vladi Semenov / Rich Green | Carmine's, 5th Avenue, Seattle |
 
 #### Thursday, October 29
+
+##### Morning — starts before noon
 
 | Date | Time | Event | Organizer | Location |
 |---|---|---|---|---|
@@ -105,6 +143,11 @@ Times are in Seattle time.
 | Thu, Oct 29 | 11:00 AM–11:30 AM | [Shipping Agentic AI in Production: What Actually Breaks](https://luma.com/xtwpzq8s) | SURF Incubator / Rainy Jain | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
 | Thu, Oct 29 | 11:00 AM–12:00 PM | [Startup to Enterprise Day Panel: What AI Investments Are Worth Funding?](https://luma.com/seaaiweek-thu-panel2) | Skillsheet / thinkspace | thinkspace SEATTLE,1700 Westlake Ave N |
 | Thu, Oct 29 | 11:30 AM–12:00 PM | [Cyber Security 101 for AI Builders](https://luma.com/ypsy7cyu) | SURF Incubator / Maksim Akifev | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
+
+##### Afternoon — starts noon–4:59 PM
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Thu, Oct 29 | 12:00 PM–1:30 PM | [Canada's AI Talent Advantage: Hiring, Scaling, and Growing Across Borders](https://luma.com/u1ikxosm) | Consulate General of Canada in Seattle | Consulate General of Canada in Seattle, 1501 4th Ave |
 | Thu, Oct 29 | 12:15 PM–1:00 PM | [Lunch & Learn: Running an Engineering Org of Coding Agents](https://luma.com/uzolgrde) | SURF / SWELL | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
 | Thu, Oct 29 | 12:30 PM–2:30 PM | [Why Are We Sprinting Off the AI Cliff?](https://luma.com/qfabpakr) | BBR Academy / AI Safety Awareness Project | 6001stAve suite600c,Seattle |
@@ -117,6 +160,11 @@ Times are in Seattle time.
 | Thu, Oct 29 | 3:00 PM–6:00 PM | [Humans Leading Humans in an AI World](https://luma.com/6x69grzo) — Approval required | Kara Hertz | Washington Athletic Club, 1325 6th Ave, Seattle |
 | Thu, Oct 29 | 4:00 PM–6:00 PM | [AI and Consumer Safety \| ACME Brains x IMA x Stifel Venture Banking x Escalon](https://luma.com/iprahc6t) — Approval required | Mary Jesse / ACME Brains | Bellevue; address after registration |
 | Thu, Oct 29 | 4:00 PM–7:00 PM | [ATIHx Seattle: Responsible Tech Mixer](https://luma.com/g2b2gntm) | ATIHx / Brandi Colledge / Whitney Rearick | Stoup Brewing, Capitol Hill, Seattle |
+
+##### Evening — starts at 5 PM or later
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Thu, Oct 29 | 5:00 PM–7:00 PM | [Opening the Black Box: Why We Need Safe, Transparent AI, and How to Build it](https://luma.com/nq12hckn) — Approval required | Quebec in Seattle / Consulate General of Canada | Seattle; address after registration |
 | Thu, Oct 29 | 5:00 PM–7:30 PM | [Consciousness, Neuroscience, Philosophy & AGI Happy Hour](https://luma.com/ai-925e) — Approval required | AI Builders Collective / Ken Morimoto / Ari Peden-Asarch | Seattle; address after registration |
 | Thu, Oct 29 | 5:00 PM–7:00 PM | [Deep Tech, Research & Capital](https://luma.com/hbi3cw5e) — Approval required | Mind the Bridge / ISSNAF | GemaTEG,936 N34thSt400,Seattle |
@@ -124,6 +172,8 @@ Times are in Seattle time.
 | Thu, Oct 29 | 6:00 PM–9:00 PM | [Founders Live Seattle — Seattle AI Week](https://luma.com/founderslive-seattle-2026-10) | Founders Live / Nick Hughes | Labour Temple, Seattle |
 
 #### Friday, October 30
+
+##### Morning — starts before noon
 
 | Date | Time | Event | Organizer | Location |
 |---|---|---|---|---|
@@ -137,6 +187,11 @@ Times are in Seattle time.
 | Fri, Oct 30 | 11:00 AM–12:00 PM | [Software Factories: The Next Evolution of Software Development](https://luma.com/seaaiweek-fri-keynote) | Skillsheet events | thinkspace SEATTLE, Seattle |
 | Fri, Oct 30 | 11:30 AM–2:30 PM | [AI KILL SWITCH: Humans in Control](https://luma.com/377awir2) | LumaLogica / Ryan Burns / Seattle Hardware Week | Kirkland; address after registration |
 | Fri, Oct 30 | 11:30 AM–1:00 PM | [Governing Autonomous AI: Reducing Agent Risk & Proving Control](https://luma.com/awqw3vg6) | Cato Alex Thor / SURF | SURF Incubator, Seattle |
+
+##### Afternoon — starts noon–4:59 PM
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Fri, Oct 30 | 12:00 PM–1:00 PM | [Fundamentals For Startups: AI Investment Trends in Venture Capital](https://luma.com/woezncvh) | UW CoMotion | Seattle; address after registration |
 | Fri, Oct 30 | 1:00 PM–2:30 PM | [Build AI agents your business can trust with Dave McJannet and Tu Nguyen](https://luma.com/seaaiweek-fri-panel) | Skillsheet events | thinkspace SEATTLE, Seattle |
 | Fri, Oct 30 | 1:00 PM–3:00 PM | [AI Week TL;DR Unconference](https://luma.com/sgm3apcb) | Kelly Tutors / SURF Incubator | SURF Incubator, Seattle |
@@ -144,6 +199,11 @@ Times are in Seattle time.
 | Fri, Oct 30 | 3:00 PM–5:00 PM | [Seattle AI Week Startup Showcase + Halloween Happy Hour](https://luma.com/seaaiweek-fri-hh) | Skillsheet events | thinkspace SEATTLE, Seattle |
 | Fri, Oct 30 | 4:00 PM–TBD | [System Design Discussion — October 30 — online](https://www.meetup.com/skillets/events/316202169/) | SDE Skills Coding Interviews Practice | Online |
 | Fri, Oct 30 | 4:00 PM–6:00 PM | [AI Music Meetup](https://luma.com/eitsogbg) | Shawn Porter | 4133 University Way NE, Seattle |
+
+##### Evening — starts at 5 PM or later
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Fri, Oct 30 | 6:00 PM–9:00 PM | [AI Halloween Mixer — Seattle AI Week Closing Party](https://luma.com/yh1dpllz) — Approval required | TF Labs / Aizii | 2505 3rd Ave, Seattle |
 
 #### Saturday, October 31
