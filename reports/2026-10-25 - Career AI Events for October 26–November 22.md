@@ -8,6 +8,8 @@
 
 Times are in Seattle time.
 
+#### Monday, October 26
+
 | Date | Time | Event | Organizer | Location |
 |---|---|---|---|---|
 | Mon, Oct 26 | 9:30 AM–11:00 AM | [WTIA \| AI 101: What It Is, What It Isn't, and Why It Matters Here](https://luma.com/seattle-ly3y) — Full / closed — waitlist | WTIA | Labour Temple, 2800 1st Ave, Seattle |
@@ -26,6 +28,11 @@ Times are in Seattle time.
 | Mon, Oct 26 | 5:00 PM–7:30 PM | [WAAI × Wajo AI: Agents That Actually Do Daily Tasks](https://luma.com/b0tduqc5) | Women Applying AI Seattle / Wajo AI | Seattle; address after registration |
 | Mon, Oct 26 | 5:30 PM–6:30 PM | [Agentic AI Workshop](https://luma.com/h9f9t4bv) | NetworkAI / Sarah Greenberg | PACCAR Hall PCAR295, 4277 E Stevens Way NE, Seattle |
 | Mon, Oct 26 | 6:00 PM–9:00 PM | [AI Week Seattle: A Luāu for Startups](https://luma.com/y24x8ouw) — Approval required | SURF / SWELL / Sound Startups | SURF Incubator, Seattle |
+
+#### Tuesday, October 27
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Tue, Oct 27 | 7:00 AM–11:00 AM | [Founders Social Breakfast + Parking @ SURF](https://luma.com/4mr3x2dn) | SURF Incubator / Sally A Revell | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
 | Tue, Oct 27 | 10:00 AM–12:00 PM | [Workforce of Tomorrow at Seattle AI Week](https://luma.com/353mcwi3) | Seattle Hardware Week / LumaLogica | Bellevue; address after registration |
 | Tue, Oct 27 | 10:00 AM–11:00 AM | [AI GTM Day Keynote: Fireside with Brett Mills-Meiner and Nia Joseph](https://luma.com/seaaiweek-tue-keynote) | Skillsheet events / thinkspace | thinkspace SEATTLE |
@@ -48,6 +55,11 @@ Times are in Seattle time.
 | Tue, Oct 27 | 5:30 PM–7:00 PM | [Understanding AI](https://luma.com/aisap-9bg4) | AI Safety Awareness Project | NewHolly Library, 7058 32nd Ave S, Seattle |
 | Tue, Oct 27 | 6:00 PM–8:00 PM | [Cloud, Code & Cocktail Hour — Seattle AI Week](https://luma.com/34kb3orv) — Full / closed — waitlist | MongoDB / Cognition / Palo Alto | Elephant and Castle, downtown Seattle; confirm exact address |
 | Tue, Oct 27 | 6:30 PM–8:30 PM | [AI 2030 Community Mixer: Seattle AI Week](https://luma.com/b7aycrvg) — Approval required | Xiaochen Zhang / AI 2030 | Seattle; address after registration |
+
+#### Wednesday, October 28
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Wed, Oct 28 | 9:00 AM–11:00 AM | [After the Vibe Code: How AI-built software becomes production software](https://luma.com/qzl0wpn6) | Chapter2 / Ray Zambroski | SURF Incubator, Seattle |
 | Wed, Oct 28 | 9:30 AM–10:30 AM | [Women Shaping AI Keynote: If You Don't Tell Your Story, AI Will](https://luma.com/qzy1x5vq) | SURF Incubator / Sally A Revell | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
 | Wed, Oct 28 | 9:30 AM–12:30 PM | [AI x Healthcare Startup-Investor Speed Dating](https://luma.com/cmevents-speeddate) — Approval required | UW CoMotion / Plug and Play Seattle | Startup Hall, 1100 NE Campus Pkwy Suite 200, Seattle |
@@ -78,6 +90,11 @@ Times are in Seattle time.
 | Wed, Oct 28 | 6:00 PM–8:00 PM | [Trust as the New Literacy: Why Discernment Is the New Leadership Advantage in AI](https://luma.com/9a4g7krm) | Laurie Krisman / Carol Grant / SURF Incubator | Location after registration |
 | Wed, Oct 28 | 6:00 PM–7:30 PM | [Who Does the Thinking? Learning and Human Capacity in an AI World](https://luma.com/mbr1db6z) — Approval required | Intentional Futures / Max Shuchman / Shannon Schrecengost | Intentional Futures, 2329 E Madison St, Seattle |
 | Wed, Oct 28 | 7:00 PM–9:00 PM | [Seattle AI Week Executive Dinner: Evolving the Enterprise Data Stack for AI Agents](https://luma.com/31tffc5j) — Approval required | Spice AI / Wyatt Wenzel / Vladi Semenov / Rich Green | Carmine's, 5th Avenue, Seattle |
+
+#### Thursday, October 29
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Thu, Oct 29 | 10:00 AM–11:00 AM | [Fireside Chat with David McJannet, ex-CEO HashiCorp](https://luma.com/seaaiweek-thu-keynote) | Skillsheet events | thinkspace SEATTLE, Seattle |
 | Thu, Oct 29 | 10:00 AM–6:00 PM | [AI Systems & Infrastructure @ SURF](https://luma.com/u6u1rred) | SURF Incubator / Seattle AI Week @ SURF x SWELL | SURF Incubator, Seattle |
 | Thu, Oct 29 | 10:00 AM–10:30 AM | [From Prototype to Certified: Building Safety Into Robots Before It’s Expensive](https://luma.com/vpxnz4xo) | SURF Incubator | SURF Incubator, 999 3rd Ave Ste 700, Seattle |
@@ -105,6 +122,11 @@ Times are in Seattle time.
 | Thu, Oct 29 | 5:00 PM–7:00 PM | [Deep Tech, Research & Capital](https://luma.com/hbi3cw5e) — Approval required | Mind the Bridge / ISSNAF | GemaTEG,936 N34thSt400,Seattle |
 | Thu, Oct 29 | 6:00 PM–7:00 PM | [Governing the Agentic Cloud: Secure Access for AI Agents and Workloads — online](https://luma.com/ru4qr6r9) | Thiru Bhat | Online |
 | Thu, Oct 29 | 6:00 PM–9:00 PM | [Founders Live Seattle — Seattle AI Week](https://luma.com/founderslive-seattle-2026-10) | Founders Live / Nick Hughes | Labour Temple, Seattle |
+
+#### Friday, October 30
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Fri, Oct 30 | 9:00 AM–12:30 PM | [Kobe University–UW Innovation Symposium](https://luma.com/cmevents-phw9) | UW CoMotion | Fluke Hall, 4000 NE Mason Rd, Seattle |
 | Fri, Oct 30 | 9:30 AM–11:00 AM | [Friday Forum: Product Management — Where AI Fails — online](https://luma.com/cdo0yv1v) | Seattle Tech Forum | Online |
 | Fri, Oct 30 | 10:00 AM–11:00 AM | [Zero to H.I.R.O. With Physical A.I.](https://luma.com/sqhg0pkp) | Skillsheet events | thinkspace SEATTLE, Seattle |
@@ -123,7 +145,17 @@ Times are in Seattle time.
 | Fri, Oct 30 | 4:00 PM–TBD | [System Design Discussion — October 30 — online](https://www.meetup.com/skillets/events/316202169/) | SDE Skills Coding Interviews Practice | Online |
 | Fri, Oct 30 | 4:00 PM–6:00 PM | [AI Music Meetup](https://luma.com/eitsogbg) | Shawn Porter | 4133 University Way NE, Seattle |
 | Fri, Oct 30 | 6:00 PM–9:00 PM | [AI Halloween Mixer — Seattle AI Week Closing Party](https://luma.com/yh1dpllz) — Approval required | TF Labs / Aizii | 2505 3rd Ave, Seattle |
+
+#### Saturday, October 31
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Sat, Oct 31 | 1:30 PM–3:30 PM | [SDE Skills — In-Person Meetup — October 31](https://www.meetup.com/skillets/events/316479915/) | SDE Skills Coding Interviews Practice | Kirkland Library, 308 Kirkland Ave, Kirkland |
+
+#### Sunday, November 1
+
+| Date | Time | Event | Organizer | Location |
+|---|---|---|---|---|
 | Sun, Nov 1 | — | No events recorded. | — | — |
 
 ### Week of November 2–8
