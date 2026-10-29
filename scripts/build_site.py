@@ -172,7 +172,7 @@ def build(source):
     body, nav, count = render(text)
     title = text.splitlines()[0].removeprefix('# ')
     report_url = 'https://github.com/jtsai24/automated_event_pulling/blob/main/reports/' + quote(source.name)
-    nav_html = ''.join(f'<a class="level-{level}" href="#{ident}">{html.escape(label)}</a>' for level,label,ident in nav)
+    nav_html = ''.join(f'<a class="level-{level}" href="#{ident}">{html.escape(label)}</a>' for level,label,ident in nav if level != 4 and label != "Events")
     document = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Seattle career, AI and software event schedules, organized by day and time."><title>{html.escape(title)}</title><style>{CSS}</style></head>
 <body id="top"><a class="skip" href="#report">Skip to report</a>
