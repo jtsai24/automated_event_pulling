@@ -12,6 +12,12 @@ This project publishes a regularly updated report of career, AI, software, and t
 - [Earlier report: September 28–October 25, 2026 (generated September 24)](reports/2026-09-24%20-%20Career%20AI%20Events%20for%20September%2028%E2%80%93October%2025.md)
 - [Earlier report: September 21–October 18, 2026](reports/2026-09-24%20-%20Career%20AI%20Events%20for%20September%2021%E2%80%93October%2018.md)
 
+## Website
+
+The HTML report is hosted at https://jtsai24.github.io/automated_event_pulling/ once GitHub Pages is enabled (Settings → Pages → Source: GitHub Actions).
+
+Report commits automatically trigger `.github/workflows/pages.yml`, which runs `python scripts/build_site.py` and publishes the generated `docs/` folder. To preview locally, run the same command and open `docs/index.html`. The generator uses only public Markdown reports; it does not access Notion or private notes.
+
 ## Special event guides
 
 - [Seattle AI Week 2026: complete event timetable, Opening Reception, AI Summit, and overlapping events](reports/2026-10-10%20-%20Seattle%20AI%20Week%202026%20Complete%20Event%20Timetable.md)
