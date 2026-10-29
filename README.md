@@ -14,7 +14,9 @@ This project publishes a regularly updated report of career, AI, software, and t
 
 ## Website
 
-The HTML report is hosted at https://jtsai24.github.io/automated_event_pulling/ once GitHub Pages is enabled (Settings → Pages → Source: GitHub Actions).
+Read the HTML report at **https://events.jimmytsai.org/**.
+
+See the [website publishing and custom-domain guide](docs/website-publishing.md) for the pipeline, local preview, DNS setup and troubleshooting (issues [#1](https://github.com/jtsai24/automated_event_pulling/issues/1) and [#2](https://github.com/jtsai24/automated_event_pulling/issues/2)).
 
 Report commits automatically trigger `.github/workflows/pages.yml`, which runs `python scripts/build_site.py` and publishes the generated `docs/` folder. To preview locally, run the same command and open `docs/index.html`. The generator uses only public Markdown reports; it does not access Notion or private notes.
 
