@@ -1,6 +1,10 @@
 # Seattle Career and AI Events
 
-This project publishes a regularly updated report of career, AI, software, and technical networking events relevant to the Seattle area.
+This project publishes regularly updated reports of career, AI, software, and technical networking events relevant to the Seattle area. Reports are now available as a readable webpage, with day navigation and a mobile-friendly layout.
+
+**[Read the latest report on the website → events.jimmytsai.org](https://events.jimmytsai.org/)**
+
+The website is hosted on **GitHub Pages** and uses **events.jimmytsai.org** as its custom-domain alias. Markdown versions and past reports remain available below.
 
 - [Latest report: October 26–November 22, 2026 — updated; completed with source gaps](reports/2026-10-25%20-%20Career%20AI%20Events%20for%20October%2026%E2%80%93November%2022.md)
 - [Previous report: October 19–November 15, 2026 (generated October 18)](reports/2026-10-18%20-%20Career%20AI%20Events%20for%20October%2019%E2%80%93November%2015.md)
@@ -14,7 +18,9 @@ This project publishes a regularly updated report of career, AI, software, and t
 
 ## Website
 
-Read the HTML report at **https://events.jimmytsai.org/**.
+The latest report is automatically rendered from Markdown into HTML and published to **[events.jimmytsai.org](https://events.jimmytsai.org/)** using GitHub Actions and GitHub Pages.
+
+The custom-domain alias points to GitHub Pages through the DNS CNAME `events` → `jtsai24.github.io`; GitHub Pages maps `events.jimmytsai.org` to this repository's website. Squarespace manages the domain's DNS, while GitHub hosts the webpage.
 
 See the [website publishing and custom-domain guide](docs/website-publishing.md) for the pipeline, local preview, DNS setup and troubleshooting (issues [#1](https://github.com/jtsai24/automated_event_pulling/issues/1) and [#2](https://github.com/jtsai24/automated_event_pulling/issues/2)).
 
