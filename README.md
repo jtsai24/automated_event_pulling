@@ -6,7 +6,9 @@ This project publishes regularly updated reports of career, AI, software, and te
 
 The website is hosted on **GitHub Pages** and uses **events.jimmytsai.org** as its custom-domain alias. Markdown versions and past reports remain available below.
 
-- [Latest report: November 9–December 6, 2026 — completed with source gaps](reports/2026-11-08%20-%20Career%20AI%20Events%20for%20November%209%E2%80%93December%206.md)
+- [Latest report: November 16–December 13, 2026 — completed with source gaps](reports/2026-11-15%20-%20Career%20AI%20Events%20for%20November%2016%E2%80%93December%2013.md)
+- [November 15 source audit and run summary](reports/2026-11-15%20-%20Run%20Summary.md)
+- [Previous report: November 9–December 6, 2026 — completed with source gaps](reports/2026-11-08%20-%20Career%20AI%20Events%20for%20November%209%E2%80%93December%206.md)
 - [November 8 source audit, run summary and event record links](reports/2026-11-08%20-%20Run%20Summary.md)
 - [Previous report: November 2–29, 2026 — PARTIAL; ingestion and coverage audit incomplete](reports/2026-11-01%20-%20Career%20AI%20Events%20for%20November%202%E2%80%93November%2029.md)
 - [Previous report: October 26–November 22, 2026 — updated; completed with source gaps](reports/2026-10-25%20-%20Career%20AI%20Events%20for%20October%2026%E2%80%93November%2022.md)
